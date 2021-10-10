@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/136712029-ea850e73-0ca0-47a8-ac9d-4e363c5e14ce.png">
   <br />
   Apache Arrow Guide
 </h1>
@@ -8,9 +8,12 @@
 
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/136712035-f3cf3d10-978b-45b0-9edd-25b3c61a95ed.png">
 
-<img src="">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/136712036-c7d73185-9d48-4290-8ef9-60f5e922eb95.png">
+ <br />
+</p>
 
  Apache Arrow native implementations and bindings for systems languages. Source: [Apache Arrow](https://arrow.apache.org/)
 
